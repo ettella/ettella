@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning frontend developing
+🌱 I’m currently learning frontend development
 
 <!-- - 
 **ettella/ettella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
